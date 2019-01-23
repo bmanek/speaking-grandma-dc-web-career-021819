@@ -2,7 +2,7 @@
 def speak_to_grandma(chatter)
   if chatter != chatter.upcase
     "HUH?! SPEAK UP, SONNY!"
-  elsif chatter == "I LOVE YOU, GRANDMA!"
+  elsif chatter == "I LOVE YOU GRANDMA!"
     "I LOVE YOU TOO PUMPKIN!"
   end
 end
