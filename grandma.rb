@@ -1,5 +1,6 @@
 # Write a speak_to_grandma method.
-def speak_to_grandma
+def speak_to_grandma(chatter)
+  if chatter == chatter.
 end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
